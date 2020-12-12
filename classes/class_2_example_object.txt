@@ -1,0 +1,13 @@
+Object: Adios, Motherfucker
+
+Attributes:
+volume_in_ml: 350
+color: "Blue"
+is_cold: true
+alcohols: ["Vodka", "Rum", "Tequila", "Gin", "Blue curacao"]
+
+Methods:
+change_color: color = "Blue"
+sip_cocktail: volume_in_ml - 50
+add_ice: is_cold = true
+make_non_alcholic: alcohols = [];
