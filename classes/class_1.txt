@@ -6,9 +6,10 @@ taste (string)
 temperature (float)
 vegan (boolean)
 number_of_sides (interger)
+ingredients (array)
 
 Methods:
 add_side (this adds a side to the dish and modifies number_of_sides)
 check_temperature (shows temperature of food and modifies temperature attribute)
 inspect_for_diet_restriction (this would show what diet restrictions there are and would modify the vegan attribute)
-is_tasty (this determines if the dish tastes good and would modify the taste attribute)
+add_extra_ingredient (this adds an extra ingredient to the ingredients attribute)
