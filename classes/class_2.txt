@@ -1,0 +1,13 @@
+Class: Cocktail
+
+Attributes:
+volume (integer)
+color (string)
+is_cold (boolean)
+alcohols (array)
+
+Methods:
+add_color (adds color to cocktail and modifies color attribute)
+fill (increase volume attribute)
+add_ice (adds ice to cocktail and modifies is_cold attribute)
+make_non_alcholic (removes alcohol from cocktail which modifies alcohols array)
