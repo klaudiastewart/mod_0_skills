@@ -1,0 +1,15 @@
+Object: Burger
+
+Attributes:
+serving_size: 1
+taste: "smokey"
+temperature: 160.5
+vegan: false
+number_of_sides: 0
+ingredients: ["Bun", "Lettuce", "Tomato", "Patty"]
+
+Methods:
+add_side: number_of_sides + 1
+check_temperature: temperature = 160.5
+inspect_for_diet_restriction: vegan = false
+add_extra_ingredient: ingredients: ["Bun", "Lettuce", "Tomato", "Patty", "Cheese"]
