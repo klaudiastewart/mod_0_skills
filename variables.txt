@@ -1,0 +1,9 @@
+food = "apple"
+is_delicious = true
+food = "orange"
+num2 = 2
+num7 = 7
+quotient = num7 / num2
+songs = ["WAP", "Gangstas Paradise", "Bad Romance"]
+songs.shift()
+food.length
